@@ -1,0 +1,12 @@
+node_modules/
+store/node_modules/
+
+store/public/
+
+.DS_Store
+Thumbs.db
+
+package-lock.json
+store/package-lock.json
+
+.env
